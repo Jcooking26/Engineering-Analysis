@@ -5,7 +5,7 @@
 * Analysis: Electric vs Gas power cost comparison.
 * Analysis: Energy consumption per acceleration and velocity rates. 
 ## See Full Report 
-[![Watch the video](link to thumbnail img)](link to vid)
+[View the PDF Guide](https://github.com/Jcooking26/Engineering-Analysis/blob/a733eb4e7c0863790e73d5e55d541b32c0ca5bff/1.%20Electric%20Vehicle%20Energy%20Analysis/Electric%20Vehicle%20Energy%20Analysis%20-%20Report.pdf)
 ## Data points
 * Distance 
 * Velocity 
