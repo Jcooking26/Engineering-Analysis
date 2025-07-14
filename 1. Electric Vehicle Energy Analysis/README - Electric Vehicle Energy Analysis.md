@@ -72,23 +72,24 @@
 ![Alt Text](https://github.com/Jcooking26/Engineering-Analysis/blob/fc7bb6264e2d30bd7e1cd3c5f59c7dacef70e124/1.%20Electric%20Vehicle%20Energy%20Analysis/Figures/Figure%202.2.png)
 #### 6. Figure 2.3 Average Velocity, Acceleration & Energy Bar Graph  
 ![Alt Text](https://github.com/Jcooking26/Engineering-Analysis/blob/fc7bb6264e2d30bd7e1cd3c5f59c7dacef70e124/1.%20Electric%20Vehicle%20Energy%20Analysis/Figures/Figure%202.3.png)
-#### 7. Figure 2.4 Average Power per Velocity Range  &   #### 8. Figure 2.4.1 Average Power per Acceleration Range Range  
+#### 7. Figure 2.4 Average Power per Velocity Range
+#### 8. Figure 2.4.1 Average Power per Acceleration Range Range  
 ![Alt Text](https://github.com/Jcooking26/Engineering-Analysis/blob/fc7bb6264e2d30bd7e1cd3c5f59c7dacef70e124/1.%20Electric%20Vehicle%20Energy%20Analysis/Figures/Figure%202.4%20%26%202.4.1.png)
 #### 9. Figure 2.5 Velocity and Acceleration vs Energy Analysis (Bar Graph)  
-![Alt Text](raw_url)
+![Alt Text](https://github.com/Jcooking26/Engineering-Analysis/blob/2285ddfe6ce16cee51ce9ce46ba4b0643fb3dfb1/1.%20Electric%20Vehicle%20Energy%20Analysis/Figures/Figure%202.5.png)
 #### 10. Figure 2.6 Velocity and Acceleration vs Energy Analysis (Line Graph)  
-![Alt Text](raw_url)
+![Alt Text](https://github.com/Jcooking26/Engineering-Analysis/blob/2285ddfe6ce16cee51ce9ce46ba4b0643fb3dfb1/1.%20Electric%20Vehicle%20Energy%20Analysis/Figures/Figure%202.6.png)
 #### 11. Figure 3 Isolated Trip Data  
-![Alt Text](raw_url)
+![Alt Text](https://github.com/Jcooking26/Engineering-Analysis/blob/2285ddfe6ce16cee51ce9ce46ba4b0643fb3dfb1/1.%20Electric%20Vehicle%20Energy%20Analysis/Figures/Figure%203.png)
 #### 12. Figure 3.1 Trip 1 Analysis  
-![Alt Text](raw_url)
+![Alt Text](https://github.com/Jcooking26/Engineering-Analysis/blob/2285ddfe6ce16cee51ce9ce46ba4b0643fb3dfb1/1.%20Electric%20Vehicle%20Energy%20Analysis/Figures/Figure%203.1.png)
 #### 13. Figure 3.2 Trip 2 Analysis  
-![Alt Text](raw_url)
+![Alt Text](https://github.com/Jcooking26/Engineering-Analysis/blob/2285ddfe6ce16cee51ce9ce46ba4b0643fb3dfb1/1.%20Electric%20Vehicle%20Energy%20Analysis/Figures/Figure%203.2.png)
 #### 14. Figure 3.3 Trip 3 Analysis  
-![Alt Text](raw_url)
+![Alt Text](https://github.com/Jcooking26/Engineering-Analysis/blob/2285ddfe6ce16cee51ce9ce46ba4b0643fb3dfb1/1.%20Electric%20Vehicle%20Energy%20Analysis/Figures/3.3.png)
 #### 15. Figure 3.4 Trip 1 - 45[s] interval  
-![Alt Text](raw_url)
+![Alt Text](https://github.com/Jcooking26/Engineering-Analysis/blob/2285ddfe6ce16cee51ce9ce46ba4b0643fb3dfb1/1.%20Electric%20Vehicle%20Energy%20Analysis/Figures/3.4.png)
 #### 16. Figure 3.5 Trip 1 - 1[min] 30[s] interval  
-![Alt Text](raw_url)
+![Alt Text](https://github.com/Jcooking26/Engineering-Analysis/blob/2285ddfe6ce16cee51ce9ce46ba4b0643fb3dfb1/1.%20Electric%20Vehicle%20Energy%20Analysis/Figures/3.5.png)
 #### 17. Figure 3.6 Trip 1 - 0.75[s] interval  
-![Alt Text](raw_url)
+![Alt Text](https://github.com/Jcooking26/Engineering-Analysis/blob/2285ddfe6ce16cee51ce9ce46ba4b0643fb3dfb1/1.%20Electric%20Vehicle%20Energy%20Analysis/Figures/Figure%203.6.png)
