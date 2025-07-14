@@ -61,7 +61,7 @@
 17. Figure 3.6 Trip 1 - 0.75[s] interval  
 ## Screenshots
 #### 1. Figure 1 Battery vs Gas Power consumption  
-![Alt Text](raw_url)
+![Alt Text](https://github.com/Jcooking26/Engineering-Analysis/blob/2388f81416d8b8710a2c5b7f207206b227930110/1.%20Electric%20Vehicle%20Energy%20Analysis/Figures/Figure%201.png)
 #### 2. Figure 1.1 Gas Tank vs Battery Pack cost comparison  
 ![Alt Text](raw_url)
 #### 3. Figure 2 Complete Data Set Chart  
