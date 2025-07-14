@@ -63,17 +63,17 @@
 #### 1. Figure 1 Battery vs Gas Power consumption  
 ![Alt Text](https://github.com/Jcooking26/Engineering-Analysis/blob/2388f81416d8b8710a2c5b7f207206b227930110/1.%20Electric%20Vehicle%20Energy%20Analysis/Figures/Figure%201.png)
 #### 2. Figure 1.1 Gas Tank vs Battery Pack cost comparison  
-![Alt Text](raw_url)
+![Alt Text](https://github.com/Jcooking26/Engineering-Analysis/blob/fc7bb6264e2d30bd7e1cd3c5f59c7dacef70e124/1.%20Electric%20Vehicle%20Energy%20Analysis/Figures/Figure%201.1.png)
 #### 3. Figure 2 Complete Data Set Chart  
-![Alt Text](raw_url)
+![Alt Text](https://github.com/Jcooking26/Engineering-Analysis/blob/fc7bb6264e2d30bd7e1cd3c5f59c7dacef70e124/1.%20Electric%20Vehicle%20Energy%20Analysis/Figures/Figure%202.png)
 #### 4. Figure 2.1 Velocity, Acceleration, and Energy Plot  
-![Alt Text](raw_url)
+![Alt Text](https://github.com/Jcooking26/Engineering-Analysis/blob/fc7bb6264e2d30bd7e1cd3c5f59c7dacef70e124/1.%20Electric%20Vehicle%20Energy%20Analysis/Figures/Figure%202.1.png)
 #### 5. Figure 2.2 Battery Life Pie Chart  
-![Alt Text](raw_url)
+![Alt Text](https://github.com/Jcooking26/Engineering-Analysis/blob/fc7bb6264e2d30bd7e1cd3c5f59c7dacef70e124/1.%20Electric%20Vehicle%20Energy%20Analysis/Figures/Figure%202.2.png)
 #### 6. Figure 2.3 Average Velocity, Acceleration & Energy Bar Graph  
-![Alt Text](raw_url)
+![Alt Text](https://github.com/Jcooking26/Engineering-Analysis/blob/fc7bb6264e2d30bd7e1cd3c5f59c7dacef70e124/1.%20Electric%20Vehicle%20Energy%20Analysis/Figures/Figure%202.3.png)
 #### 7. Figure 2.4 Average Power per Velocity Range  &   #### 8. Figure 2.4.1 Average Power per Acceleration Range Range  
-![Alt Text](raw_url)
+![Alt Text](https://github.com/Jcooking26/Engineering-Analysis/blob/fc7bb6264e2d30bd7e1cd3c5f59c7dacef70e124/1.%20Electric%20Vehicle%20Energy%20Analysis/Figures/Figure%202.4%20%26%202.4.1.png)
 #### 9. Figure 2.5 Velocity and Acceleration vs Energy Analysis (Bar Graph)  
 ![Alt Text](raw_url)
 #### 10. Figure 2.6 Velocity and Acceleration vs Energy Analysis (Line Graph)  
